@@ -1,7 +1,6 @@
 ![log](https://github.com/kinza099/kinza099/blob/main/WhatsApp%20Image%202023-06-29%20at%2011.38.36.jpg)
 <h1 align="center">Hi 👋, I'm Kinza Bughio</h1>
 <h3 align="center">A Passionate cybersecurity analyst</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/kinza099/kinza099/blob/master/assets/136237414/05b9ccb3-a45d-4f7e-b9d3-7a99cb5ac5b8">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kinza099&label=Profile%20views&color=0e75b6&style=flat" alt="kinza099" /> </p>
