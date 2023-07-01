@@ -1,4 +1,4 @@
-![log](https://github.com/kinza099/kinza099/blob/main/WhatsApp%20Image%202023-06-29%20at%2011.38.36.jpg)
+![log](https://github.com/kinza099/kinza099/blob/main/GitHUb-banner-kinza-bughio.jpg)
 <h1 align="center">Hi 👋, I'm Kinza Bughio</h1>
 <h3 align="center">A Passionate Cybersecurity Analyst from Pakistan</h3>
 
